@@ -10,6 +10,7 @@ New logos for the Web: HTML, CSS & JS
 - Border radius
   - Like TS, per size?
   - Maybe like DevTools in one SVG using media queries
+- Dark mode for sure!
 
 ## Inspiration
 
