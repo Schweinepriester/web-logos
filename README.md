@@ -8,6 +8,8 @@ New logos for the Web: HTML, CSS & JS
 
 - No border radius
 - Border radius
+  - Like TS, per size?
+  - Maybe like DevTools in one SVG using media queries
 
 ## Inspiration
 
