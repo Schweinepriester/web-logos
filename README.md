@@ -10,6 +10,7 @@ New logos for the Web: HTML, CSS & JS
 - Not the old shield designs from HTML5 & CSS3 anymore - maybe use the (background) colors though
 - Like the JS-logo?
 - Alternative idea: the shields but with "H", "C" and "J"?
+- The building bricks idea from webassmebly is nice
 
 ## Versions?
 
