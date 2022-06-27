@@ -33,3 +33,4 @@ New logos for the Web: HTML, CSS & JS
 - https://github.com/ChromeDevTools/devtools-logo
 - https://svgporn.com/ - https://github.com/gilbarbara/logos
 - https://www.pngwing.com/de/free-png-nwtwu
+- https://fonts.google.com/noto/specimen/Noto+Sans+Mono?preview.text=HTML&preview.text_type=custom medium 500?
