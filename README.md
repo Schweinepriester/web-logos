@@ -32,3 +32,4 @@ New logos for the Web: HTML, CSS & JS
 - https://github.com/alrra/browser-logos
 - https://github.com/ChromeDevTools/devtools-logo
 - https://svgporn.com/ - https://github.com/gilbarbara/logos
+- https://www.pngwing.com/de/free-png-nwtwu
