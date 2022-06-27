@@ -4,9 +4,15 @@ WIP
 
 New logos for the Web: HTML, CSS & JS
 
+## Versions?
+
+- No border radius
+- Border radius
+
 ## Inspiration
 
 - https://github.com/voodootikigod/logo.js
+  - Very close to perfect using Illustrator, https://fontsgeek.com/fonts/Neutra-Text-Bold, 338 pt, 0 letter spacing
 - https://www.typescriptlang.org/branding/
 - https://github.com/carlosbaraza/web-assembly-logo
 - https://github.com/webmaxru/progressive-web-apps-logo
