@@ -4,6 +4,13 @@ WIP
 
 New logos for the Web: HTML, CSS & JS
 
+## Idea
+
+- Have unified logos for the web, for at least HTML, CSS & JS
+- Not the old shield designs from HTML5 & CSS3 anymore - maybe use the (background) colors though
+- Like the JS-logo?
+- Alternative idea: the shields but with "H", "C" and "J"?
+
 ## Versions?
 
 - No border radius
