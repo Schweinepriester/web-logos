@@ -9,6 +9,13 @@ New logos for the Web: HTML, CSS & JS
 - Have unified logos for the web, for at least HTML, CSS & JS
 - Not the old shield designs from HTML5 & CSS3 anymore - maybe use the (background) colors though
 - Like the JS-logo?
+  - CSS: diagonal from the top left, because cascading! the last S perfectly matching the S in the JS version
+    ```
+    C
+      S
+        S
+    ```
+    kinda like that ↑ but closer together, more legible
 - Alternative idea: the shields but with "H", "C" and "J"?
 - The building bricks idea from webassmebly is nice
 
