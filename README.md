@@ -17,6 +17,12 @@ New logos for the Web: HTML, CSS & JS
     ```
     kinda like that ↑ but closer together, more legible.  
     alluding to the idea of versions numbers somwhere, optionally top right space for a tiny L3, L4, L5, L6 (for the individual specs)
+  - HTML: use fixed width font and spread it?
+    ```
+    H T
+    M L
+    ```
+    or just use `<>`? (`{}` for CSS then?)
 - Alternative idea: the shields but with "H", "C" and "J"?
 - The building bricks idea from webassembly is nice
 - So meta: Do the logos on the web and "only" export to SVG B-)
